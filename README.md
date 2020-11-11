@@ -1,7 +1,7 @@
-## Forcasting of Contraceptive Consumption in Cote d'Ivory Spotify
+## Forcasting of contraceptive demand in Cote d'Ivory
 
 
-### Dataset: Contraceptive consumption of 11 products in XX cities on Cote d'Ivory from XX-2016 until XX-2020
+### Dataset: Contraceptive consumption of 11 contraceptive products in 156 health services in Cote d'Ivory from Jan-2016 until Jun-2019.
 Data: data/Train.csv
 Metadata: data/Table_of_Contents.xlsx
 
