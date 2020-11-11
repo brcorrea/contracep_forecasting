@@ -1,8 +1,11 @@
 ## Forcasting of contraceptive demand in Cote d'Ivory
 
 
-### Dataset: Contraceptive consumption of 11 contraceptive products in 156 health services in Cote d'Ivory from Jan-2016 until Jun-2019.
+### Dataset: 
+* Contraceptive consumption of 11 contraceptive products in 156 health services in Cote d'Ivory from Jan-2016 until Jun-2019.
+
 Data: data/Train.csv
+
 Metadata: data/Table_of_Contents.xlsx
 
 
