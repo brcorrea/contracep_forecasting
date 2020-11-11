@@ -14,13 +14,13 @@ Stock data of 11 contraceptive products in 156 health services in Cote d'Ivory f
 Forecast contraceptives' stock demand for July, August and September of 2019.
 
 
-### Build docker image to run the notebook
+### Build docker image to run the notebook:
 
 ```
 docker build -t contracep_forecasting_img .
 ```
 
-### Run notebook server in docker
+### Run notebook server in docker:
 
 ```bash
 docker run -it --rm \
