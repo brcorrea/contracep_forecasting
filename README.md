@@ -1,9 +1,9 @@
-## Forecasting of contraceptive products' demand in Cote d'Ivory
+## Forecasting of contraceptive products' demand in Côte d'Ivoire
 
 
 ### Dataset: 
 
-Stock data of 11 contraceptive products in 156 health services in Cote d'Ivory from Jan-2016 until Jun-2019.
+Stock data of 11 contraceptive products in 156 health services in Côte d'Ivoire from Jan-2016 until Jun-2019.
 
 * Data: data/Train.csv
 
