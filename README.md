@@ -7,7 +7,7 @@ Stock data of 11 contraceptive products in 156 health services in Côte d'Ivoire
 
 * Data: data/Train.csv
 
-* Metadata: data/Table_of_Contents.xlsx
+* Metadata: data/metadata.csv
 
 ### Goal:
 
